@@ -1,0 +1,3 @@
+[submodule "xdsl-typed_pointers"]
+	path = xdsl-typed_pointers
+	url = git@github.com:xdslproject/xdsl-typed_pointers.git
